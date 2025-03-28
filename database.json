@@ -1,0 +1,21 @@
+{
+
+        "users": [
+            {
+              "id": 77,
+              "username": "Humberto",
+              "first_name": "Humberto",
+              "email": "Humberto@email.com"
+            },
+            {
+                "id": 1,
+                "username": "bob",
+                "first_name": "bob",
+                "email": "bob@email.com"
+              }
+
+ ]
+
+
+
+}
