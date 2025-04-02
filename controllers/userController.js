@@ -1,5 +1,5 @@
 const fs = require('fs');
-const filePath = require('./database.json');
+const filePath = require('../database.json');
 const { readData, writeData} = require('../utils/file.js');
 
 async function createUser(req, res) {
@@ -31,5 +31,9 @@ async function createUser(req, res) {
         res.status(500).json(`Internal Server Error: ${error}`);
         
     }
+
+   
     
 }
+
+module.exports = {createUser};
