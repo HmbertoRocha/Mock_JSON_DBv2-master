@@ -23,6 +23,12 @@
     },
     {
       "id": 6
+    },
+    {
+      "id": 7,
+      "username": "user1",
+      "first_name": "user",
+      "email": "user@gmail.com"
     }
   ]
 }
